@@ -28,13 +28,15 @@ Below are the main functions available in the contract:
 
 ## Example
 
-```solidity
+solidity
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.5.0 <0.9.0;
 
 contract Lottery {
     // Contract variables and functions...
-}
+} 
 
 ##   Contributors
 - [Suhas H S](https://github.com/Suhas-30)
+
+
